@@ -10,8 +10,7 @@
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://i.postimg.cc/xj31N3pj/1.png)
 
-## 👨🏻‍💻 &nbsp;About Me
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 ## I'm a Flutter Developer !!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
