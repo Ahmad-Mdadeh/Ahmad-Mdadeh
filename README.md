@@ -1,4 +1,6 @@
-### Hi there, I'm Yassin 👋
+### Hi there
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+SoftWare+Engineer)](https://git.io/typing-svg)
 
 [![Linkedin:Ahmad](https://img.shields.io/badge/-Ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-mdadeh-5142a8265/)](https://www.linkedin.com/in/ahmad-mdadeh-5142a8265/)
 [![Instagram:Ahmad](https://img.shields.io/badge/-Ahmad-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmad.md4/)](https://www.instagram.com/ahmad.md4/)
