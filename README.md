@@ -18,7 +18,7 @@
 - 👨‍🤝‍👨 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to play games
-- ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I can
+- ✉️ &nbsp;You can shoot me an email at eng.ahmadmdadeh@gmail.com! I'll try to respond as soon as I can
 
 # 💻 Tech Stack:
 
