@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Ahmad-Mdadeh?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ahmad-Mdadeh&color=brightgreen">
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://i.postimg.cc/xj31N3pj/1.png)
+[![50jwtf7w05sy9q00sg4t.webp](https://i.postimg.cc/2yfWddjM/50jwtf7w05sy9q00sg4t.webp)](https://postimg.cc/JDPtMkk5)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
 
